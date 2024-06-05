@@ -1,0 +1,9 @@
+= Plasticity Houdini bridge =
+
+Currently unstable.
+Works in H19.5
+
+
+
+*Soruce Code is from:*
+[Plasticity Blender Addon|https://github.com/nkallen/plasticity-blender-addon]

@@ -1,0 +1,12 @@
+{
+    "path": "PathToPlasticityBridge", 
+    "env": [
+        {
+            "PATH": {
+                "value": [
+                    "PathToPlasticityBridge"
+                ]
+            }
+        }
+    ]
+}
